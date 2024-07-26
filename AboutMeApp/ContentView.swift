@@ -50,7 +50,7 @@ struct ContentView: View {
         .padding()
         
     
-        
+        //Adding a comment
     }//closes body
 }//closes struct
 
